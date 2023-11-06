@@ -1,0 +1,3 @@
+E:/workspace/clion/CLionProjects/ws2812/cmake-build-debug/CMakeFiles/ws2812.elf.dir
+E:/workspace/clion/CLionProjects/ws2812/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/workspace/clion/CLionProjects/ws2812/cmake-build-debug/CMakeFiles/rebuild_cache.dir
